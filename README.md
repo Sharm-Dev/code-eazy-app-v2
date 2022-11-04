@@ -1,1 +1,1 @@
-# codes-easy-app-v2
+# code-eazy-app-v2
